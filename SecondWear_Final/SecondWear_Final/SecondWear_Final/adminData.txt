@@ -1,0 +1,5 @@
+Admin User	admin@secondwear.co.za	$2y$10$Ot7qR1bF6zU2d9D5LR7Z0sAB6oV1K2wM8XqP4tN9kHuE7rJ5bL3Ef
+Jane Admin	jane.admin@secondwear.co.za	$2y$10$Pu8rS2cG7aV3e0E6MS8A1tBC7pW2L3xN9YrQ5uO0lIvF8sK6cM4Fg
+Mike Manager	mike.mgr@secondwear.co.za	$2y$10$Qv9sT3dH8bW4f1F7NT9B2uCD8qX3M4yO0ZsR6vP1mJwG9tL7dN5Gh
+Lisa Supervisor	lisa.sup@secondwear.co.za	$2y$10$Rw0tU4eI9cX5g2G8OU0C3vDE9rY4N5zP1AtS7wQ2nKxH0uM8eO6Hi
+Neo Director	neo.dir@secondwear.co.za	$2y$10$Sx1uV5fJ0dY6h3H9PV1D4wEF0sZ5O6aQ2BuT8xR3oLyI1vN9fP7Ij

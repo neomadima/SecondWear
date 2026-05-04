@@ -1,0 +1,5 @@
+John Doe	j.doe@abc.co.za	$2y$10$YxKp8B3vQ9z5Z1HN3V6o6eWX2kR7G8sI4TmL0pJ5gDqA3nF1xH2Wy	Pretoria Campus	verified
+Sarah Johnson	sarah.j@campus.ac.za	$2y$10$Kp3mN7xB2vQ8z5Z1HN3V6oWX2kR7G8sI4TmL0pJ5gDqA3nF1xH9Ab	Johannesburg Campus	verified
+Thabo Nkosi	thabo.n@campus.ac.za	$2y$10$Lq4nO8yC3wR9a6A2IO4W7pXY3lS8H9tJ5UnM1qK6hErB4oG2yI0Bc	Pretoria Campus	verified
+Emma Williams	emma.w@campus.ac.za	$2y$10$Mr5oP9zD4xS0b7B3JP5X8qYZ4mT9I0uK6VoN2rL7iFsC5pH3zJ1Cd	Cape Town Campus	pending
+David Molefe	david.m@campus.ac.za	$2y$10$Ns6pQ0aE5yT1c8C4KQ6Y9rZA5nU0J1vL7WpO3sM8jGtD6qI4aK2De	Durban Campus	verified
